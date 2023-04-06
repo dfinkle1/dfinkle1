@@ -1,11 +1,8 @@
-### hey there 
+### Hi
 </a>
 <a href="https://www.linkedin.com/in/danielfinkle11/">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=dfinkle1.visitor-badge)
-
 <br />
 
 Hi, I am Daniel Finkle, a full stack software engineer from California! I love learning new things, and developing diffrent kinds of projects along the way. Feel free to follow me on my journey as I continue to grow.
