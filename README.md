@@ -24,10 +24,8 @@ Hi, i'm [Daniel Finkle], a full stack software engineer from California! I love 
 
 
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->       
-🌸  Completed  tasks today           
-✅  Completed  tasks so far           
-⏳  Longest streak is 10 days
+# Todoist Stats
+<!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
 
