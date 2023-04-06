@@ -1,14 +1,11 @@
-### Hi
-</a>
-<a href="https://www.linkedin.com/in/danielfinkle11/">
-  <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+### Hi there, I'm Daniel Finkle 👋
 
-Hi, I am Daniel Finkle, a full stack software engineer from California! I love learning new things, and developing diffrent kinds of projects along the way. Feel free to follow me on my journey as I continue to grow.
-  
-- You can reach me by email @[email](mailto:daniel.finkle1@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 🔭 I’m a full-stack software engineering position.
+- 🤔 All of my projects are available at https://github.com/dfinkle1
+- 📫 How to reach me: daniel.finkle1@gmail.com
+- 👨‍💻 Can view my experience: https://www.linkedin.com/in/danielfinkle11/
+</a>
+
 
 **languages and tools:**  
 
@@ -22,6 +19,7 @@ Hi, I am Daniel Finkle, a full stack software engineer from California! I love l
 
 # Todoist Stats
 <!-- TODO-IST:START -->
+
 <!-- TODO-IST:END -->
 
 
