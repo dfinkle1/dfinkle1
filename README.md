@@ -8,9 +8,9 @@
 
 <br />
 
-Hi, i'm [Daniel Finkle], a full stack software engineer from California! I love learning new things, and developing diffrent kinds of projects along the way. Feel free to follow me on my journey as I continue to grow.
+Hi, I am Daniel Finkle, a full stack software engineer from California! I love learning new things, and developing diffrent kinds of projects along the way. Feel free to follow me on my journey as I continue to grow.
   
-- 💼 any freelance work?[email](mailto:daniel.finkle1@gmail.com) :)
+- You can reach me by email @[email](mailto:daniel.finkle1@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -23,7 +23,6 @@ Hi, i'm [Daniel Finkle], a full stack software engineer from California! I love 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-🚧 **my todoist stats:**
 # Todoist Stats
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
