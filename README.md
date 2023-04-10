@@ -17,12 +17,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <img align="right" alt="GIF" src="https://github.com/dfinkle1/dfinkle1/blob/master/code.gif?raw=true" width="500" height="320" />
 
-```markdown
+
 # Todoist Stats
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
-```
 
 
 📈 my github stats
