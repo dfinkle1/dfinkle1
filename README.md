@@ -18,8 +18,8 @@
 <img align="right" alt="GIF" src="https://github.com/dfinkle1/dfinkle1/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # Todoist Stats
-<!-- TODO-IST:START -->
 
+<!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
 
