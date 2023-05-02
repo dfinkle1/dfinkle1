@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Finkle 👋
 
-- 🔭 I’m a full-stack software engineering position.
+- 🔭 I’m a full-stack software engineer.
 - 🤔 All of my projects are available at https://github.com/dfinkle1
 - 📫 How to reach me: daniel.finkle1@gmail.com
 - 👨‍💻 Can view my experience: https://www.linkedin.com/in/danielfinkle11/
